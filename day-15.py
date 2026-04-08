@@ -1,4 +1,4 @@
-rom coffee_menu import MENU, resources
+from coffee_menu import MENU, resources
 
 money = 0
 machine_running = True
